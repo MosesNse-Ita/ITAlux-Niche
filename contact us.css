@@ -257,7 +257,7 @@ margin-top: 1rem; */
     justify-content: space-between;
   }
   .container .content .left-side {
-    width: %;
+    width: 50%;
     height: 100%;
     position: relative;
     margin-top: 15px;
@@ -278,7 +278,7 @@ margin-top: 1rem; */
   }
   .content .left-side .you{
     font-size: 40px;
-    position: relative; bottom: 81px;
+    position: relative; bottom: 98px;
     color: #010e2f;
   }
   .content .left-side .details {
