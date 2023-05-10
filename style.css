@@ -31,16 +31,7 @@
         padding: 0;
         box-sizing: border-box;
         font-family:var(--body-font);
-        
-           /* Layout */
-    .bd-grid {
-        max-width: 1024px;
-        display: grid;
-        grid-template-columns: 100%;
-        column-gap: 2rem;
-        width: calc(100% - 2rem);
-        margin: auto;
-        }
+      
 }
 .header{
     padding: 1.5% 6%;
@@ -175,7 +166,7 @@ margin-left: 20px;
 }
 .nav__buttons{
     font-weight: var(--font-bold);
-    background-color: #010e2f;
+    background-color: #EBC12E;
     color: white;
     border: none;
     border-radius: 5px;
@@ -210,12 +201,13 @@ margin-left: 20px;
     bottom: 30%;
     padding: 1rem 2rem;
     width: 30%;
-    height: 300px;
+    height: 350px;
     margin: 1%;
     background-color: #EBC12E;
     text-align: center;
     font-size: var(--font-regular-italic);
     font-family: var(--body-font);
+    border-radius: 2rem;
 }
 
 .tools__icon{
@@ -239,7 +231,7 @@ margin-left: 20px;
 }
 
 body{
-    background-color: beige;
+    background-color: rgb(134, 134, 84);
 }
 
 /* .service__container{
